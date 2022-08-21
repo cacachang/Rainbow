@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require "rainbow/version"
+require "rainbow/array"
 
 module Rainbow
   class Error < StandardError; end
